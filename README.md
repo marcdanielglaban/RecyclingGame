@@ -66,7 +66,15 @@ Recycling and proper waste management contribute to protecting terrestrial ecosy
 
 ## Screenshots of the Program
 
+![Screenshot 2023-12-11 001507](https://github.com/marcdanielglaban/RecyclingGame/assets/58283183/6211b3b2-237c-41f0-9214-12203213de23)
 
+![Screenshot 2023-12-11 001531](https://github.com/marcdanielglaban/RecyclingGame/assets/58283183/fbbbde54-6658-4437-a460-1aa5d7fef24b)
+
+![Screenshot 2023-12-11 001643](https://github.com/marcdanielglaban/RecyclingGame/assets/58283183/19ccc71e-81a7-4cf5-8d6e-3676b676a652)
+
+![Screenshot 2023-12-11 001702](https://github.com/marcdanielglaban/RecyclingGame/assets/58283183/7c35d568-645c-4d3f-9c4e-319f8b0cc544)
+
+![Screenshot 2023-12-11 001713](https://github.com/marcdanielglaban/RecyclingGame/assets/58283183/d339457b-ba77-4822-98f9-234b8200fc1a)
 
 ## Individual Assessment
 Main Programmer - Glaban, Marc Daniel - 100%
