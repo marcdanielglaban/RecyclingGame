@@ -5,27 +5,37 @@ The game presents items to be sorted into different bins based on their categori
 Classes:
 
 • Trash: Represents individual items with a name and category.
+
 • Bin: Represents bins for different categories and can accept items.
+
 • RecyclingGame: The main class managing the game. It initializes the game interface, handles user input, updates the score, and calculates accuracy and grade.
 
 Game Logic:
 
-The game has a list of items (Trash) and bins (Bin).
-Users start the game by selecting a difficulty level and clicking the "Start Game" button.
-Bins are displayed as buttons, and the player clicks a bin to sort the current item.
-The game tracks the score, time remaining, and displays results at the end.
+• The game has a list of items (Trash) and bins (Bin).
+
+• Users start the game by selecting a difficulty level and clicking the "Start Game" button.
+
+• Bins are displayed as buttons, and the player clicks a bin to sort the current item.
+
+• The game tracks the score, time remaining, and displays results at the end.
 
 User Interface:
 
 •The Tkinter library is used for the GUI.
+
 •Bins are represented as buttons.
+
 •Labels display the current item, score, and time remaining.
+
 •A separate window shows the final results and bin contents.
 
 Scoring and Results:
 
 •The player gains points for correct sorting and loses points for incorrect sorting.
+
 •The game calculates accuracy and assigns a grade based on the player's performance.
+
 •Results are displayed in a messagebox.
 
 Sustainable Development Goal (SDG) Alignment:
