@@ -56,11 +56,13 @@ Recycling and proper waste management contribute to protecting terrestrial ecosy
 
 ## Technologies Used
 
-Python: The primary programming language.
+• Python: The primary programming language.
 
-Tkinter and ttkbootstrap: Provide the graphical user interface for the desktop application.
+• Tkinter : Used to create the graphical user interface of the recycling game.
 
-Random Module: Used for shuffling the list of trash items, adding an element of randomness to the game.
+• Random Module: Used for shuffling the list of trash items, adding an element of randomness to the game.
+
+• Messagebox Module (part of Tkinter): Utilized for displaying information windows, such as game results and bin contents.
 
 ## Screenshots of the Program
 
